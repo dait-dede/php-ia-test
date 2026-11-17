@@ -1,0 +1,24 @@
+sku,nombre,categoria,precio,existencia
+PAP-001,Cuaderno profesional raya 100 hojas,Papelería,45.50,120
+PAP-002,Cuaderno profesional cuadro,Papelería,45.50,98
+PAP-003,Paquete de plumas azules (10),Papelería,62.00,75
+PAP-004,Lápiz del 2 (caja 12),Papelería,38.90,140
+PAP-005,Hojas blancas tamaño carta paquete 500,Papelería,119.00,60
+PAP-006,Folder tamaño carta (25),Papelería,72.30,44
+PAP-007,Marcatextos amarillo,Papelería,14.50,210
+FER-001,Martillo de uña 16 oz,Ferretería,189.00,22
+FER-002,Desarmador plano 6",Ferretería,54.00,35
+FER-003,Desarmador cruz 6",Ferretería,54.00,31
+FER-004,Cinta métrica 5 m,Ferretería,98.50,18
+FER-005,Caja de tornillos 1/2" (100),Ferretería,65.00,40
+FER-006,Pinzas de presión,Ferretería,1145.00,12
+LIM-001,Cloro 1 L,Limpieza,24.90,90
+LIM-002,Detergente en polvo 1 kg,Limpieza,52.00,65
+LIM-003,Jabón líquido para trastes aroma limón 750 ml,Limpieza,36.40,80
+LIM-004,Escoba de plástico,Limpieza,79.00,25
+LIM-005,Trapeador de algodón,Limpieza,85.50,20
+ELE-001,Foco LED 9 W luz cálida,Eléctrico,39.90,150
+ELE-002,Extensión eléctrica 3 m,Eléctrico,112.00,28
+ELE-003,Multicontacto 6 entradas,Eléctrico,1165.00,15
+ELE-004,Pilas AA (4),Eléctrico,58.00,95
+ELE-005,Cinta de aislar,Eléctrico,19.50,130

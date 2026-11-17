@@ -1,0 +1,20 @@
+{
+    "packages": [
+        {
+            "name": "league/csv",
+            "version": "9.16.0",
+            "version_normalized": "9.16.0.0",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "League\\Csv\\": "src"
+                }
+            },
+            "license": ["MIT"],
+            "description": "CSV data manipulation made easy in PHP",
+            "install-path": "../league/csv"
+        }
+    ],
+    "dev": false
+}

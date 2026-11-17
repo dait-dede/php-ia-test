@@ -1,0 +1,14 @@
+{
+    "name": "acme/interfaces",
+    "description": "Interfaces de intercambio de archivos con sistemas internos de ACME",
+    "type": "project",
+    "require": {
+        "php": "^8.2",
+        "league/csv": "^9.16"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

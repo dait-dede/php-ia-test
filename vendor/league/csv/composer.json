@@ -1,0 +1,24 @@
+{
+    "name": "league/csv",
+    "type": "library",
+    "description" : "CSV data manipulation made easy in PHP",
+    "keywords": ["csv", "import", "export", "read", "write", "filter", "convert", "transform"],
+    "license": "MIT",
+    "homepage" : "https://csv.thephpleague.com",
+    "authors": [
+        {
+            "name" : "Ignace Nyamagana Butera",
+            "email" : "nyamsprod@gmail.com",
+            "homepage" : "https://github.com/nyamsprod/",
+            "role" : "Developer"
+        }
+    ],
+    "require": {
+        "php" : "^8.1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "League\\Csv\\": "src"
+        }
+    }
+}
